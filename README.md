@@ -11,4 +11,4 @@ https://maryamzu.github.io/data-and-reporting-projects/tableau.html
 3) LOOKER STUDIO - Navigate to this website to view a report built in Looker Studio using data transformed in GCP.
 https://maryamzu.github.io/data-and-reporting-projects/looker.html
 Below you can find a simple data modelling exercise that is based on a bank account information storing scenario:
-<img width="1500" alt="BankDatabase" src="https://github.com/user-attachments/assets/7aa55f3c-5b8e-403f-8be9-96d4fa10f10a" />
+<img width="904" alt="BankDatabase" src="https://github.com/user-attachments/assets/90b76f30-5927-4702-ac6c-274a5b7a98ff" />
