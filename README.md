@@ -8,7 +8,7 @@ https://github.com/user-attachments/assets/469bd5a6-5f71-4e29-a92c-ae2c7865e35a
 
   b. Navigate to the Data Center and Grid Ops Template.pbix file to download and view the entire dashboard to view the video below to see the basic features and functionality.
 
-
+https://github.com/user-attachments/assets/202a1fde-4734-465a-a7d8-40ee5c723320
 
 2) TABLEAU - Navigate to this website to view a Tableau report rendered and hosted on Tableau Public Edition and embedded on Github Pages.
 https://maryamzu.github.io/data-and-reporting-projects/tableau.html
