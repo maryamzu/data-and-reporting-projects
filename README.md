@@ -1,9 +1,14 @@
 # data-and-reporting-projects
 A repository to host code and files for projects related to data and reporting.
 
-1) POWER BI - Navigate to the Financials Summary and Health Metrics Sample.pbix file to download and view the entire dashboard or view the video below to see the basic features and functionality.
+1) POWER BI
+   a. Navigate to the Financials Summary and Health Metrics Sample.pbix file to download and view the entire dashboard or view the video below to see the basic features and functionality.
 
 https://github.com/user-attachments/assets/469bd5a6-5f71-4e29-a92c-ae2c7865e35a
+
+  b. Navigate to the Data Center and Grid Ops Template.pbix file to download and view the entire dashboard to view the video below to see the basic features and functionality.
+
+
 
 2) TABLEAU - Navigate to this website to view a Tableau report rendered and hosted on Tableau Public Edition and embedded on Github Pages.
 https://maryamzu.github.io/data-and-reporting-projects/tableau.html
